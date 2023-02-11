@@ -1,6 +1,18 @@
-# Olá, eu sou Tássio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">:
-🔭 I’m currently studying Web Development at Trybe<br>👯 I’m looking to collaborate on Web Development projects<br>🤝 I’m looking for help with Node.js<br>🌱 I’m currently learning Back-End<br>💬 A good conversation is always welcome<br>
+<img width="400px" align="right" alt="Octocat" src="https://octodex.github.com/images/tentocats.jpg" />
 
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Tássio Medeiros!
+================================
+
+I'm a Software Engineer.
+----------------------------------------------------
+
+* 🌍  I'm based in Piauí - Brazil.
+* :email:  You can contact me at [tassiohfmed@@gmail.com](tassiohfmed@gmail.com)
+* 🧠  I’m currently studying Web Development!
+* 🤝  I’m looking to collaborate on Web Development projects!
+* 💬 A good conversation is always welcome!
+
+----------------------------------------------------
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/t%C3%A1ssio-medeiros-274330226/) 
