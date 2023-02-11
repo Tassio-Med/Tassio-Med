@@ -7,10 +7,10 @@ I'm a Software Engineer.
 ----------------------------------------------------
 
 * 🌍  I'm based in Piauí - Brazil.
-* :email:  You can contact me at [tassiohfmed@@gmail.com](tassiohfmed@gmail.com)
-* 🧠  I’m currently studying Web Development!
+* :books:  I’m currently studying React Native!
 * 🤝  I’m looking to collaborate on Web Development projects!
 * 💬 A good conversation is always welcome!
+* :email:  You can contact me at [tassiohfmed@@gmail.com](tassiohfmed@gmail.com)
 
 ----------------------------------------------------
 
