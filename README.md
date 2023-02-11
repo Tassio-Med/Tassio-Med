@@ -21,4 +21,5 @@ I'm a Front-end Engineer.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tassio-Med&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 <img width="400px" align="right" alt="Octocat" src="https://octodex.github.com/images/Fintechtocat.png" />
+</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tassio-Med&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
