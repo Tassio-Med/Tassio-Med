@@ -1,5 +1,5 @@
 <img width="400px" align="right" alt="Octocat" src="https://octodex.github.com/images/spidertocat.png" />
-<img width="400px" align="right" alt="Octocat" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" />
+![](https://octodex.github.com/images/NUX_Octodex.gif)
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Tássio Medeiros!
 ================================
 
