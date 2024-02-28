@@ -7,7 +7,7 @@ I'm a Front-end Engineer.
 ----------------------------------------------------
 
 * 🌍  I'm based in Piauí - Brazil.
-* :books:  I’m currently studying React Native!
+* :books:  I’m currently studying C#!
 * 🤝  I’m looking to collaborate on Web Development projects!
 * 💬 A good conversation is always welcome!
 
